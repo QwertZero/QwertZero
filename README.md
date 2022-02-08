@@ -2,11 +2,11 @@
 
 -I'm a hobbiest programmer and I like to do programming for fun, I really like it!
 
--Programming with:
-     Java - Apps (Desktop, Mobile);
-     Lua - Scripts (Games, Cheats etc..);
-     Haxe - Games (Desktop, Mobile);
-     C++ - Softwares (From any Kind);
+               --Programming with:
+                    Java - Apps (Desktop, Mobile);
+                    Lua - Scripts (Games, Cheats etc..);
+                    Haxe - Games (Desktop, Mobile);
+                    C++ - Softwares (From any Kind);
   
 - 🌱 I’m currently learning C++ and Lua
 - ⚡ Fun Fact: 
