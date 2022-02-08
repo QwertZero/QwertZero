@@ -2,7 +2,7 @@
 
 -I'm a hobbiest programmer and I like to do programming for fun, I really like it!
 
-- Programming with:
+-Programming with:
      Java - Apps (Desktop, Mobile);
      Lua - Scripts (Games, Cheats etc..);
      Haxe - Games (Desktop, Mobile);
