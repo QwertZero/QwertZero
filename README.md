@@ -4,6 +4,7 @@
 
     -Programming with:
           ☕ Java - Apps (Desktop, Mobile);
+          📜 JavaScript - Basically Everything
           🔵 Lua - Scripts (Games, Cheats etc..);
           ⭐ Haxe - Games (Desktop, Mobile);
           ➕ C++ - Softwares (From any Kind);
