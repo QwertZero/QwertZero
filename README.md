@@ -1,15 +1,11 @@
-### Sup, I'm QwertZero
+### QwertZero
 
--I'm a hobbiest programmer and I like to do programming for fun, I really like it!
+-I'm a hobbiest programmer and I like to do programming for fun
 
     -Programming with:
-          ☕ Java - Apps (Desktop, Mobile);
-          📜 JavaScript - Basically Everything
-          🔵 Lua - Scripts (Games, Cheats etc..);
-          ⭐ Haxe - Games (Desktop, Mobile);
-          ➕ C++ - Softwares (From any Kind);
+          ☕ Java 
+          📜 JavaScript
+          ⭐ Haxe
+          ➕ C++
   
-- 🌱 I’m currently learning C++ and Lua
-- ⚡ Fun Fact: 
-     - Haxe is a very very very underrated language so if you're reading this, please give it a try!
-
+- 🌱 I’m currently learning C++ and Dart
