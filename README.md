@@ -5,7 +5,7 @@
     -Programming with:
           ☕ Java 
           📜 JavaScript
-          ⭐ Haxe
+          ⭐ C#
           ➕ C++
   
 - 🌱 I’m currently learning C++ and Dart
